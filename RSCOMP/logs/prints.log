@@ -1,0 +1,6 @@
+11:28:51.980 [main] INFO  stepdefinition.FilterResultTest - Driver is initialized
+11:29:00.163 [main] INFO  stepdefinition.FilterResultTest - Successfully validated text message
+11:29:06.644 [main] INFO  stepdefinition.FilterResultTest - Driver is initialized
+11:29:21.640 [main] INFO  stepdefinition.PurchaseTest - Driver is initialized
+11:29:33.466 [main] INFO  stepdefinition.PurchaseTest - Successfully validated text message
+11:29:40.817 [main] INFO  stepdefinition.PurchaseTest - Driver is initialized
